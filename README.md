@@ -1,4 +1,4 @@
-# 24645_Ass2_PluggabeDB
+
 #Below are Queries for creating pluggable databases
 CREATING PLUGGABLE DATABASE
 -----------------------------------------------------------
